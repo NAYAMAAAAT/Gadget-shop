@@ -2,9 +2,6 @@
 
 Welcome to Blu Gadgets! This e-commerce platform is dedicated to helping users discover, explore, and purchase the latest in gadgets and accessories. Built with React and Tailwind CSS, Blu Gadgets provides a seamless, responsive, and engaging shopping experience.
 
-**🔗 Live Demo**
-
-Check out the live site here: [Blu Gadgets Live Site URL]
 
 **📄 Requirement Document Link**
 
